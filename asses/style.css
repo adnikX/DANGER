@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+}
+
+.Скатерть {
+    height: 365px;
+    background:url("images/Скатерть.jpg") center top   no-repeat;
+    margin: 0;
+}
+<!---->
+.Навигация {
+    font-size: 13px;
+    width: 970px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 17px;
+
+}
+
+.nav_left{
+    color: #766259;
+    margin-right: 36px;
+
+}
+.Лево{
+    float: left;
+    margin-right: auto;
+}
+.Право{
+    float: right;
+    color: #766259;
+    width: 253px;
+
+}
+
+.Img1{
+    margin-right: 7px;
+}
+#Город{
+    float: left;
+}
+
+.Img2{
+    margin-left: 36px;
+}
+
+#hr_top{
+    margin-top: 14px;
+    margin-bottom: 20px;
+    width: 970px;
+}
+#header_mid{
+    width: 970px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#header_mid_left{
+    float: left;
+}
+#header_mid_center {
+    float: right;
+    font-size: 28px;
+    color: #461f02;
+    font-family: Georgia;
+}
+#header_mid_right input{
+    margin-left: 65px;
+
+
+}
+
+#header_mid_center a{
+    float: right;
+    font-size: 13px;
+    color: #766259;
+    font-family: Calibri;
+}
+
+#hr_bot {
+    width: 970px;
+   margin: 20px auto;
+}
+
+#header_mid_bot{
+    font-size: 15px;
+    font-family: Calibri;
+    width: 970px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.nav1_left{
+    margin-right: 39px;
+    color:#593518;
+}
+
+#header_mid_bot_left{
+    float: left;
+
+
+}
+
+#header_mid_bot_right{
+    float: right;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+#header_mid_bot_right a{
+    color:#593518;
+
+}
+
+
